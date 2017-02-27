@@ -5,5 +5,6 @@ npm i (cnpm i)
 webpack -w
 ##step3
 open index.html on chrome
-
+##tip
+Sass-loader may need to re-install
 
