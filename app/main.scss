@@ -1,0 +1,13 @@
+@import "./var.scss";
+
+h1 {
+  color: $red;
+	// background: url('../imgs/Koala.jpg');
+}
+.back{
+	background-image: url('../imgs/Koala.jpg');
+	// background-position: right;
+	background-size: contain;
+	height: 300px;
+	width:400px;
+}
